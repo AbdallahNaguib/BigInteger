@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1540658279 source:e:\my work\c++\biginteger\main.cpp
+	<iostream>
+	<big_integer.h>
+
+1540660816 source:e:\my work\c++\biginteger\src\big_integer.cpp
+	"big_integer.h"
+	<algorithm>
+
+1540660230 e:\my work\c++\biginteger\include\big_integer.h
+	<iostream>
+
